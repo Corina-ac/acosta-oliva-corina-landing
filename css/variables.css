@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --color-principal: #52616B;
+    --color-secundario: #B8CDB5;
+    --color-acento: #AFC4D4;
+    --color-fondo: #F3F0E8;
+    --color-texto: #2C3E50;
+    --color-blanco: #FFFFFF;
+    --color-oscuro: #1a2a32;
+
+    --degradado-oscuro: linear-gradient(135deg, #26313A 0%, #1C252C 100%);
+    --degradado-acento: linear-gradient(135deg, #6FA463 0%, #578A4C 100%);
+    --degradado-suave: linear-gradient(160deg, #B8CDB5 0%, #AFC4D4 100%);
+
+    --fuente-principal: 'Poppins', 'Segoe UI', Tahoma, sans-serif;
+    --fuente-titulos: 'Playfair Display', Georgia, 'Times New Roman', serif;
+
+    --sombra-suave: 0 4px 20px rgba(82, 97, 107, 0.08);
+    --sombra-media: 0 8px 30px rgba(82, 97, 107, 0.15);
+    --sombra-fuerte: 0 12px 40px rgba(82, 97, 107, 0.2);
+    --sombra-verde: 0 6px 20px rgba(106, 164, 99, 0.35);
+    --borde-radio: 12px;
+    --borde-radio-sm: 6px;
+}
