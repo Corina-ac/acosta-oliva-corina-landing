@@ -80,6 +80,5 @@ acosta-oliva-corina-landing/
 
 ## Captura principal
 
-![Boceto estructural de ModuArk](img/boceto-moduark.png)
+<img width="1358" height="6038" alt="image" src="https://github.com/user-attachments/assets/3e68f99e-ff4e-4bf4-847a-4aaeef8bd012" />
 
-*Boceto a lápiz de la landing page con las 10 secciones organizadas.*
