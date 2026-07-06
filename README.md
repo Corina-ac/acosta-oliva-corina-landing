@@ -27,16 +27,21 @@ acosta-oliva-corina-landing/
 │   ├── secciones.css
 │   └── estilos.css
 ├── img/
+│   ├── hero-video.mp4
 │   ├── logo.svg
-│   ├── hero.svg
-│   ├── servicio-01.svg
-│   ├── servicio-02.svg
-│   ├── servicio-03.svg
-│   ├── proyecto-01.svg
-│   ├── proyecto-02.svg
-│   └── proyecto-03.svg
+│   ├── leedcertified.png
+│   ├── iso.png
+│   ├── oit.png
+│   ├── servicio-01.jpg
+│   ├── servicio-02.jpg
+│   ├── servicio-03.jpg
+│   ├── proyecto-01.jpg
+│   ├── proyecto-02.jpg
+│   ├── proyecto-03.jpg
+│   ├── cliente-01.jpg
+│   └── cliente-02.jpg
 ├── docs/
-│   └── informe.pdf
+│   └── Informe_Landing_ModuArk.docx
 └── README.md
 ```
 
@@ -75,4 +80,6 @@ acosta-oliva-corina-landing/
 
 ## Captura principal
 
-*(Agregar captura de pantalla de la landing page)*
+![Boceto estructural de ModuArk](img/boceto-moduark.png)
+
+*Boceto a lápiz de la landing page con las 10 secciones organizadas.*
